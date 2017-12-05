@@ -13,3 +13,8 @@ mm = int(input ("Enter month: "))
 '''
 # display the calendar
 print(calendar.month(yy, mm))
+
+
+def placeholder(self):
+	if __name__ == '__main__':
+		return ()
